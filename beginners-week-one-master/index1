@@ -6,7 +6,7 @@
   body {                    }
   <div>
   <h1> Hello World</h1>
-  <p> Welcome to my site! </p>
+  <p> hey Everyone </p>
 <img src="./duck.jpg" alt="A local image" width="200px">
 </div>
 <div>
